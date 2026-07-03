@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SendEmailService.Common/SendEmailService.Common.csproj" />
+    <Project Path="src/SendEmailService.Core/SendEmailService.Core.csproj" />
+    <Project Path="src/SendEmailService.Infrastructure/SendEmailService.Infrastructure.csproj" />
+    <Project Path="src/SendEmailService.Worker/SendEmailService.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SendEmailService.Tests/SendEmailService.Tests.csproj" />
+  </Folder>
+</Solution>
